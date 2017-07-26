@@ -21,6 +21,8 @@
 			<scope>test</scope>
 		</dependency>
 
+
+<!-- 		Added this dependency for config client -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-config</artifactId>
